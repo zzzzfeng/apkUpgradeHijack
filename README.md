@@ -16,7 +16,7 @@
 安装器漏洞参考 https://unit42.paloaltonetworks.com/android-installer-hijacking-vulnerability-could-expose-android-users-to-malware/
 
 # Demo
-- 主流APP都可以劫持
+- 主流APP都可以劫持，支付宝APP演示(链接: https://pan.baidu.com/s/1zsltgnpf8mKqicxDrFK2OA 提取码: xy4x)
 
 # 缓解
 - 将APK包存储在私有目录。设置其他可读权限或使用fileprovider允许读权限
